@@ -1,102 +1,81 @@
-# Hi, I'm Aditya (Adi)
+# Aditya (Adi)
 
-Aspiring Engineer • Systems-Oriented Thinker • Builder
-
----
-
-## About Me
-
-- Focused on becoming a top-tier engineer with strong fundamentals  
-- Currently deep into Data Structures, Algorithms, and core CS concepts  
-- Interested in systems, performance, and writing efficient code  
-- Prefer clean logic over unnecessary complexity  
-- Strong academic background (ICSE + JEE prep) with disciplined learning habits  
-- Building real projects while sharpening problem-solving skills  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineer+in+Progress;DSA+Focused;Systems+Thinker;Building+Real+Stuff" />
+</p>
 
 ---
 
-## What I Do
+## About
 
-- Write efficient and optimized C++ code  
-- Learn by building — not just consuming theory  
-- Break down problems to their fundamentals before coding  
-- Focus on correctness first, then optimize aggressively  
-- Avoid shortcuts that weaken core understanding  
+- Focused on DSA, core CS, and performance  
+- Strong in C++ and problem solving  
+- Prefer minimal, correct, and optimized code  
+- Learning by building and deep understanding  
 
 ---
 
 ## Tech Stack
 
 ### Core
-- C++
-- Python
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Concepts
-- Data Structures & Algorithms  
-- Time & Space Complexity Optimization  
-- Problem Solving (LeetCode-style + beyond)  
+### Systems / Dev
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Tools / Environment
-- Git & GitHub  
-- Linux (basic workflow)  
-- VS Code / Competitive coding setups  
-
----
-
-## Featured Work
-
-### DSA Implementations
-- Arrays, stacks, hashing, and problem-solving patterns  
-- Writing optimized solutions (O(n) focus wherever possible)  
-- Understanding trade-offs between brute force and optimal  
-
-### Algorithm Practice
-- Rotation problems  
-- Duplicate removal & hashing techniques  
-- Stack-based logic building  
-- Real interview-style problem solving  
-
-### Ongoing Learning
-- STL deep dive (when and when NOT to use it)  
-- Writing custom implementations instead of relying blindly on libraries  
-- Improving speed + clarity under constraints  
+### Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-## Current Focus
+## Stats
 
-- Mastering DSA to an advanced level  
-- Building strong problem-solving intuition  
-- Writing cleaner and more efficient code  
-- Preparing for top engineering opportunities  
-- Transitioning from "learning to code" → "thinking like an engineer"  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neverask1121&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Neverask1121&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Activity Graph
+
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neverask1121&theme=tokyo-night&hide_border=true)](https://github.com/Neverask1121)
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neverask1121/Neverask1121/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neverask1121&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+## Focus
+
+- Advanced DSA  
+- Writing high-performance code  
+- Building real-world tools  
+- Thinking beyond syntax  
 
 ---
 
 ## Philosophy
 
-- Simplicity > Overengineering  
-- Fundamentals > Framework hype  
+- Fundamentals > Hype  
+- Clarity > Cleverness  
 - Consistency > Motivation  
-- Depth > Surface-level knowledge  
-
----
-
-## GitHub Stats
-
-<!-- You can plug your stats badge here later -->
-
----
-
-## Goals
-
-- Crack top-tier engineering opportunities  
-- Build real-world impactful systems  
-- Become extremely strong in core CS  
-- Write code that is fast, clean, and reliable  
-
----
-
-## Contact / Connect
-
-- Always open to learning, collaboration, and building cool stuff  
