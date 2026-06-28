@@ -174,7 +174,9 @@ Full-stack management ecosystem focusing on optimized developer workflows and se
 
 ---
 
-> *"The best way to understand intelligence is to build it."*
+ *"The best way to understand intelligence is to build it."*
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f990da2f-cfc3-4be3-9eeb-9057260b77f2" />
+
 
 ---
 
