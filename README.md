@@ -182,6 +182,4 @@ Full-stack management ecosystem focusing on optimized developer workflows and se
 
 <img src="https://komarev.com/ghpvc/?username=Neverask1121&style=for-the-badge&color=58A6FF"/>
 
-**Happy Coding!** 🚀
-
 </div>
