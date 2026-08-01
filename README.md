@@ -53,7 +53,7 @@ Full-stack management ecosystem focusing on optimized developer workflows and se
 </table>
 
 <div align="center">
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Neverask1121&theme=hacker-inverted&hide_border=true&border_radius=5.2&locale=ja&date_format=%5BY.%5Dn.j&card_width=300&card_height=170&hide_longest_streak=true" alt="GitHub Streak" /></a> -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Neverask1121&theme=hacker-inverted&hide_border=true&border_radius=5.2&locale=ja&date_format=%5BY.%5Dn.j&card_width=300&card_height=170&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Neverask1121&style=for-the-badge&color=e324e3"/>
